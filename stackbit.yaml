@@ -353,3 +353,5 @@ models:
     fields:
       - name: test
         type: string
+        label: test1
+        readOnly: true
