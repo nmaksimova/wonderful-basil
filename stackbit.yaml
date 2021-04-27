@@ -347,3 +347,6 @@ models:
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
         description: Hide the intro image on mobile screen sizes
+  new_model_test1:
+    type: page
+    label: new_model_test1
