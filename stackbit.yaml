@@ -246,6 +246,8 @@ models:
             value: main
           - label: Footer Menu
             value: footer
+      - name: ''
+        type: string
   service:
     type: page
     label: Service
